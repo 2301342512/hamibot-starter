@@ -2,5 +2,11 @@
     "fileMark": {
         "configFile": "src/config.json",
         "scriptFile": "dist/index.js"
+    },
+    "name": "auto",
+    "scriptId": "6971d26354085efb833284ab",
+    "executeRobot": {
+        "_id": "695d3f2904599d7ef4875cd4",
+        "name": "小米15"
     }
 }
